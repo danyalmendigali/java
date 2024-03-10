@@ -1,7 +1,5 @@
 package lesson3;
 
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
-
 public class Primitives {
     public static void main(String[] args) {
         //Логические значение(булвые значения)
@@ -33,7 +31,12 @@ public class Primitives {
 
         double doubleNumber = 1.12345678901234567890;
         float floatNumber = 1.12345678901234567890F;
-        System.out.println(doubleNumber);
-        System.out.println(floatNumber);
+        //System.out.println(doubleNumber);
+        //System.out.println(floatNumber);
+
+        //Char - символ, 16 bit
+        char letter = 'Я';
+        System.out.println(letter);
+
     }
 }
