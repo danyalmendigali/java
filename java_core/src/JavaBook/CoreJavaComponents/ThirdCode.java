@@ -2,7 +2,7 @@ package JavaBook.CoreJavaComponents;
 
 /*
     Класс ThirdCode отображает текст на экран.
- 
+
 */
 
 /**
